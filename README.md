@@ -28,8 +28,8 @@ This is a simple and interactive To-Do List application built using **Vite + Rea
 ### Step 1: Clone the Repository
 
 git clone https://github.com/TamannaBagwan/To-do-List
-cd To-do-List
-cd todo-list
+- cd To-do-List
+- cd todo-list
 
 ### Step 2: Install Dependencies
 npm install
