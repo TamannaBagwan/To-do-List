@@ -36,7 +36,7 @@ const TaskForm = () => {
       onSubmit={handleSubmit}
       className="bg-white p-6 max-w-lg mx-auto w-full shadow-md rounded-lg"
     >
-      <h2 className="text-4xl font-bold text-gray-800 mb-1 pb-5 text-center">
+      <h2 className="text-4xl font-bold text-green-700 mb-1 pb-5 text-center">
         TODO LIST
       </h2>
 

@@ -8,10 +8,10 @@ const Home = () => {
     <div className="min-h-screen flex flex-col items-center py-10 px-6">
       <div className=" w-full max-w-2xl bg-white p-6 shadow-lg rounded-xl space-y-6 md:p-8">
         <TaskForm />
-        <div className="pt-4">
+        <div className="pt-5">
           <TaskFilter />
         </div>
-        <div className="pt-4">
+        <div className="pt-5">
           <TaskList />
         </div>
       </div>
